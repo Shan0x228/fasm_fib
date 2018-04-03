@@ -1,3 +1,9 @@
+;###################################################################
+; C0d3d by Shkolnik Prahramist 寂 a.k.a. Shan0x228
+; YouTube: https://www.youtube.com/channel/UCmJT3IfHtpFJyln2UdABBKg
+; Discord: Shan0x228#5690
+; Copyright © 2018
+;###################################################################
 format PE console
 entry start
 ;------------------------------------------------------------
